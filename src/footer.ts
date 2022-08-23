@@ -7,6 +7,7 @@ export async function getFooter() {
 最近一次刷新于：${new Date().toLocaleString(undefined, {
     timeStyle: "medium",
     dateStyle: "short",
+    hour12: false,
     timeZone,
   })}
 </p>
