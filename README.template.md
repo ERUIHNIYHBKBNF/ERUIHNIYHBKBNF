@@ -6,9 +6,15 @@
 
 是个对技术充满热爱的，还在上学的家伙，希望有一天能跟看上去好厉害的巨巨们一起玩耍QAQ
 
-有时候会想要变成兔子，eru的兔子窝在[这里](https://eruihniyhbkbnf.github.io/blog/)。
+想要变成兔子的说，eru的兔子窝在[这里](https://eruihniyhbkbnf.github.io/blog/)。
 
-eru大概能用这些东西一点点：
+### MyStats
+
+![eru's github stats](https://github-readme-stats.vercel.app/api?username=ERUIHNIYHBKBNF&theme=dracula&show_icons=true)
+
+### MySkills
+
+这个笨蛋大概对这些东西会用一点点：
 
 **Development**
 
