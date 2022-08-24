@@ -8,8 +8,6 @@
 
 有时候会想要变成兔子，eru的兔子窝在[这里](https://eruihniyhbkbnf.github.io/blog/)。
 
--------
-
 eru大概能用这些东西一点点：
 
 **Development**
