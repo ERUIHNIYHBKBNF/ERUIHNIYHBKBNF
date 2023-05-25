@@ -6,7 +6,7 @@
 
 是个对技术充满热爱的，还在上学的家伙，希望有一天能跟看上去好厉害的巨巨们一起玩耍QAQ
 
-想要变成兔子的说，eru的兔子窝在[这里](https://eruihniyhbkbnf.github.io/blog/)。
+想要变成兔子的说，eru的兔子窝在[这里](https://eruusagi.moe)。
 
 ### MyStats
 
