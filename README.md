@@ -6,7 +6,7 @@
 
 是个对技术充满热爱的，还在上学的家伙，希望有一天能跟看上去好厉害的巨巨们一起玩耍QAQ
 
-想要变成兔子的说，eru的兔子窝在[这里](https://eruihniyhbkbnf.github.io/blog/)。
+想要变成兔子的说，eru的兔子窝在[这里](https://eruusagi.moe)。
 
 ### MyStats
 
@@ -52,8 +52,8 @@
 
 --------
 
-<p align="center">此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！
+<p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：8/25/22, 20:43:21
+最近一次刷新于：6/26/23, 20:26:57
 </p>
   
