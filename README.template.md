@@ -1,5 +1,7 @@
 # Hi, it's eru! (｡･ω･｡)ﾉ♡
 
+**eru作为24届校招生正在找一份前端开发的工作，最好是base杭州，希望可以有大佬捞一下，简历在[这里](https://github.com/ERUIHNIYHBKBNF/ERUIHNIYHBKBNF/blob/master/resume.pdf)**
+
 这里是eru的主页，是一只普通的[智乃](https://zh.moegirl.org.cn/%E9%A6%99%E9%A3%8E%E6%99%BA%E4%B9%83)厨desu\~
 
 名字读起来很像 `千反田える` ，不过似乎只是取脸滚键盘产生的id的前三个字母。
