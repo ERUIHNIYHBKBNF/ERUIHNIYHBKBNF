@@ -1,16 +1,18 @@
 # Hi, it's eru! (｡･ω･｡)ﾉ♡
 
-**eru作为24届校招生正在找一份前端开发的工作，最好是base杭州，希望可以有大佬捞一下，简历在[这里](https://github.com/ERUIHNIYHBKBNF/ERUIHNIYHBKBNF/blob/master/resume.pdf)**
+这里是eru的主页，名字的发音大概是 `える` ，是一只普通的[智乃](https://zh.moegirl.org.cn/%E9%A6%99%E9%A3%8E%E6%99%BA%E4%B9%83)厨。
 
-这里是eru的主页，是一只普通的[智乃](https://zh.moegirl.org.cn/%E9%A6%99%E9%A3%8E%E6%99%BA%E4%B9%83)厨desu\~
+eru目前在字节跳动做一些前端的工作，除此之外还在忙着生活和谈恋爱🥰
 
-名字读起来很像 `千反田える` ，不过似乎只是取脸滚键盘产生的id的前三个字母。
+作为24届毕业的本科生，从秋招走过来体验还是很难的，对社区的种种憧憬也不得不为工作让路。所幸eru酱对自己现在的工作还是充满热爱，希望有一天可以调整好节奏，重新回到这里刷满整片绿绿的墙🙂
 
-是个对技术充满热爱的，~~还在上学的家伙~~，（呜呜呜在实习好忙。。什么时候能调整好节奏来社区逛逛呢，Stats都蹭蹭往下掉了都蹭蹭往下掉了(╥ω╥\`)），希望有一天能跟看上去好厉害的巨巨们一起玩耍QAQ
+想要变成兔子的说，欢迎来eru的[兔子窝](https://eruusagi.moe)围观qwq
 
-想要变成兔子的说，eru的兔子窝在[这里](https://eruusagi.moe)。
+最后放老婆～
 
-### MyStats
+![呜呜呜老婆加载失败了QAQ](https://raw.githubusercontent.com/ERUIHNIYHBKBNF/picapica/main/gochuusa/mini/gochuusa-1-ed-12.webp)
+
+<!-- ### MyStats
 
 ![eru's github stats](https://github-readme-stats.vercel.app/api?username=ERUIHNIYHBKBNF&theme=dracula&show_icons=true)
 
@@ -50,12 +52,6 @@
 <p>
   <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=macos&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual studio code&logoColor=white" />
-</p>
+</p> -->
 
---------
 
-<p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
-</br>
-最近一次刷新于：12/20/23, 20:18:30
-</p>
-  
